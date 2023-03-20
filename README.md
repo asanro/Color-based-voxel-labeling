@@ -30,5 +30,5 @@ Open your terminal or CMD and call `python executable.py` or `python3 executable
 - stanfortonski - https://github.com/stanfortonski - for providing such a great codebase.
 
 ## Video link
-
+https://www.youtube.com/watch?v=nJAspExkhxE
 
